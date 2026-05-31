@@ -1,7 +1,3 @@
-
-def main():
-  pass #code goes here
-
 # File: initials.py
 # Description: Print out my initials.
 # Assignment Number: 1
@@ -38,5 +34,3 @@ print()
 main()
 print()
 print()
-
-main()
